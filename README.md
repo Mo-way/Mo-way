@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo-way
 - 👀 I’m interested in Audio
-- 🌱 I’m currently learning Yoctp
+- 🌱 I’m currently learning Yocto
 - 💞️ I’m looking to collaborate on AES67
 - 📫 How to reach me: Open issue here
 
