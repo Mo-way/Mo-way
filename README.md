@@ -1,4 +1,4 @@
-Hi, I’m @Mo-way
+Hi, I’m @Mo_
 
 - 🌱 I’m currently learning Yocto, AES67/Audio
 - 📫 How to reach me: Open issue somewhere or google my E-Mail
