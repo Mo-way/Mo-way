@@ -1,7 +1,9 @@
 Hi, I’m @Mo_
 
-- 🌱 I’m currently learning Yocto, AES67/Audio
+- Interested in all things AoIP: Audio, networking, Linux kernel, ...
+- If you have some spare time, reading Don Norman's "The design of everyday things" would be a splendid and very insightful use of it. At least it was for me.
 - 📫 How to reach me: Open issue somewhere, E-Mail or mastodon
+
 
 <!---
 Mo-way/Mo-way is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
